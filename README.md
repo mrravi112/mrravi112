@@ -70,6 +70,8 @@
 - Implemented predictive algorithms to assist in loan approval decisions.
 - Designed to reduce manual evaluation time and improve decision-making efficiency.
 
+  #live Demo for Smart Loan Eligibility Advisor :-  https://real-time-smart-loan-eligibility-advisor-18377zz5u-mrravi11312.vercel.app/
+
 ⭐ More exciting projects coming soon...
 
 ---
